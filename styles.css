@@ -6,6 +6,10 @@ form {
     text-decoration: none;
     color: black;
   }
+.submit{
+    text-decoration: none;
+    color: black;
+  }
   /* Full-width inputs */
   input[type=text], input[type=password] {
     width: 100%;
