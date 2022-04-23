@@ -2,7 +2,10 @@
 form {
     border: 3px solid #f1f1f1;
   }
-  
+  .submit{
+    text-decoration: none;
+    color: black;
+  }
   /* Full-width inputs */
   input[type=text], input[type=password] {
     width: 100%;
@@ -22,6 +25,10 @@ form {
     border: none;
     cursor: pointer;
     width: 100%;
+    text-decoration: none;
+  }
+  .btn{
+    text-decoration: none;
   }
   
   /* Add a hover effect for buttons */
